@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Kacper Ptak 🐦
+
+### About Me
+I'm a student at the Poznań University of Technology. I’m currently learning JavaScript.
 
 <!--
 **ptakkk/ptakkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
