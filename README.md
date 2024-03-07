@@ -17,7 +17,7 @@ Aktualnie piszę pracę inżynierską z tematyki zwalczania chwastów na polach 
 
 I'm a motivated programmer looking for a job, where I could develop professionally and discover new technologies.
 
-I'm studying at Poznań University of Technology.
+I'm studying computer science at Poznań University of Technology.
 
 Currently, I'm learning JavaScript, but I am open to other languages. I'm constantly learning and discovering new technologies, which I use in my projects. For me, programming is a tool to make anything that I can think of.
 
