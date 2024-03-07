@@ -1,19 +1,24 @@
-### Hi there 👋 I'm Kacper Ptak 🐦
+### Cześć, mam na imię Kacper Ptak 🐦
+----
+### O mnie
 
-### About Me
-I'm a student at the Poznań University of Technology. I’m currently learning JavaScript.
+Jestem zmotywowanym programistą poszukującym miejsca pracy, gdzie będę mógł się rozwijać zawodowo i poznawać nowe technologie. 
 
-<!--
-**ptakkk/ptakkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Studiuję informatykę na Politechnice Poznańskiej. 
 
-Here are some ideas to get you started:
+Obecnie uczę się języka JavaScript, ale jestem również otwarty na inne języki. Ciągle się uczę i odkrywam nowe technologie, które wykorzystuje w swoich projektach. Programowanie jest dla mnie narzędziem do tworzenia czegokolwiek, co sobie wymyślę.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aktualnie piszę pracę inżynierską z tematyki zwalczania chwastów na polach uprawnych przy pomocy uczenia maszynowego. Wiąże się to z moim zainteresowaniem - ogrodnictwem; kocham rośliny ogrodowe jak i doniczkowe.
+
+----
+### Hi, my name is Kacper Ptak 🐦
+----
+### About me
+
+I'm a motivated programmer looking for a job, where I could develop professionally and discover new technologies.
+
+I'm studying at Poznań University of Technology.
+
+Currently, I'm learning JavaScript, but I am open to other languages. I'm constantly learning and discovering new technologies, which I use in my projects. For me, programming is a tool to make anything that I can think of.
+
+At the moment, I'm writing an engineering thesis about weed eradication on farmlands using machine learning. It relates to my hobby - gardening; I love both outdoor and indoor plants.
